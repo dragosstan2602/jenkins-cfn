@@ -4,5 +4,5 @@ Resources:
   S3Bucket:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: My-jenkins-test-bucket12131415
+      BucketName: my-jenkins-test-bucket12131415
 
