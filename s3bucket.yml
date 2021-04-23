@@ -1,0 +1,8 @@
+AWSTemplateFormatVersion: 2010-09-09
+Description: S3 Bucket with Inventory and Analytics Configurations
+Resources:
+  S3Bucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: My-jenkins-test-bucket12131415
+
